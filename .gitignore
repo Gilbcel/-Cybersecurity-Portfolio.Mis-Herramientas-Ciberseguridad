@@ -1,0 +1,21 @@
+# Archivos del sistema de Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Configuración de entornos de desarrollo (VS Code)
+.vscode/
+*.code-workspace
+.history/
+
+# Archivos de caché y logs temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.log
+
+# Archivos temporales de texto o errores locales
+resultado_ERROR.txt
+app.log
