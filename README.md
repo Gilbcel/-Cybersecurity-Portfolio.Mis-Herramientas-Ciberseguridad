@@ -1,13 +1,8 @@
-# 🛡 Cybersecurity & Automation Portfolio
-
-Welcome to my professional repository documenting my practical experience in cybersecurity and automation.
-
 ## 📂 Repository Structure & Projects
 
-Features specialized modules including Network Reconnaissance, Malware-Sandbox, and Phishing Detector & Incident Automation (SOAR) with `soar_automation.py`.
+This portfolio features specialized defensive security utilities:
 
-## 🛠 Global Technical Environment
-
-Validated on macOS Sequoia (Apple Silicon arm64) using Homebrew.
-
-*Disclaimer: Testing is strictly executed within authorized educational sandbox environments.*
+* **🔍 Network Reconnaissance & Audit:** Scripts automated to analyze host metrics (`mi_primer_script.sh`) alongside audit artifacts (`reporte_seguridad.txt`).
+* **🔬 Malware-Sandbox:** Dynamic telemetry utility tracking unauthorized local file system events and IOC deployments.
+* **🎣 Phishing Detector & SOAR Automation:** Heuristic link analysis engine coupled with JSON-formatted structural alert dispatching (`soar_automation.py`).
+* **☁️ Cloud-Security-Auditor:** Security posture validation utility (CSPM) executing vulnerability scanning against AWS structural definitions.
